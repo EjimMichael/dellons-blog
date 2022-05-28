@@ -1,0 +1,22 @@
+{
+    "blogs": [
+      {
+        "title": "The psychology of money",
+        "body": "Always be ready to lose",
+        "author": "Jimmy",
+        "id": 1
+      },
+      {
+        "title": "Flutter and Dart",
+        "body": "coding is life",
+        "author": "Tonyrock",
+        "id": 2
+      },
+      {
+        "title": "The art of healthy food",
+        "body": "Eat healthy and live long",
+        "author": "paulo",
+        "id": 3
+      }
+    ]
+}
